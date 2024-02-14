@@ -1,0 +1,12 @@
+jupyter
+tensorflow==2.10.0
+lxml
+matplotlib
+pandas
+Pillow
+scikit-learn
+numpy
+seaborn
+flask
+Flask-WTF
+
